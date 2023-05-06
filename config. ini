@@ -1,0 +1,14 @@
+[TESTRAIL]
+url = https://your-testrail-url.com
+email = your-testrail-email@example.com
+token = your-testrail-api-token
+project_id = 1
+suite_id = 1
+section_id = 1
+
+[API]
+base_url = https://jsonplaceholder.typicode.com
+endpoint = /posts
+params = userId=1
+headers = {"Content-Type": "application/json"}
+
